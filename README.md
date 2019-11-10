@@ -2,7 +2,7 @@
 </br>
 
 |Topic|Result|Description|
-|:---:|:----:|:----:|
+|:----:|:--------:|:-:|
 | [How to Install OpenCV Win/Mac](https://github.com/murtazahassan/OpenCV-Python/blob/master/Basics/Read_Write_Display.py)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/thumbnails/0.jpg" width="360" height="150" />       |  Read images using opencv library. Show using Opencv and Matplot library </br> |
 | [How to Read Image-Video-Webcam](https://github.com/murtazahassan/OpenCV-Python/blob/master/Basics/GrayScaling.py)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/thumbnails/1.jpg" width="360" height="150" />       |  Convert RGB images to Gray Scale  </br> |
 | [5 Must Know OpenCV Basic Functions](https://github.com/murtazahassan/OpenCV-Python/blob/master/Basics/ColorSpaceRGB.py)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/thumbnails/2.jpg" width="300" height="150" />       |  Split The RGB  Channels to view seperately  </br> |
