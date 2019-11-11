@@ -34,5 +34,4 @@
 
 |Index|Comment|
 |:---|:---|
-|1.|The recources folder is required to run most examples|
-|2.|Recommended IDE: PyCharm Community edition|
+|1.|[Recommended IDE: PyCharm Community edition](https://www.jetbrains.com/pycharm/download/)|
