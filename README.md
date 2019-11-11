@@ -15,7 +15,7 @@
 | [Joining Multiple Images to Display](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Basics/Joining_Multiple_Images_To_Display.py)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/thumbnails/5.jpg" width="300" height="150" /> |[Watch Now](https://www.youtube.com/watch?v=CJXIjApHYVs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF) |       Get selected part of an image   </br> |
 | [Warp Prespective/BirdView](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Basics/Warp_Prespective.py)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/thumbnails/6.jpg" width="300" height="150" /> |[Watch Now](https://www.youtube.com/watch?v=CJXIjApHYVs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF) |       Plot RGB values of an image in form of a Histogram  </br> |
 | [Detecting Clicks on Images](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Basics/Detecting_Clicks_On_Images.py)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/thumbnails/7.jpg" width="300" height="150" /> |[Watch Now](https://www.youtube.com/watch?v=CJXIjApHYVs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF)       |In this video we will learn how to detect clicks on an image. Using these x and y coordinates detected we will warp an image .   </br> |
-|_____________________|__________________________|__________| ______________________________
+|___________________|______________________________|__________| ____________________________
 
 
 # Intermidiate 
