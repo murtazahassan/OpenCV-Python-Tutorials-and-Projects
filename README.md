@@ -26,7 +26,7 @@
 |:----:|:----:|:----:|:----:|
 | [Real Time Color Detection (Webcam)](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Intermediate/RealTime_Color_Detection.py)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/thumbnails/8.jpg" width="300" height="150" />  |[Watch Now](https://www.youtube.com/watch?v=CJXIjApHYVs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF)     | In this video we will learn how to detect any color in an image using the HSV space with the help of opencv Trackbars. We will also stack the images together to make the workflow smoother. </br> |
 | [Real Time Shape Detection using Contours](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Intermediate/RealTime_Shape_Detection_Contours.py)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/thumbnails/9.jpg" width="300" height="150" />  |[Watch Now](https://www.youtube.com/watch?v=CJXIjApHYVs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF)   | In this video we will learn how to detect shapes of objects by finding their contours. Contours are basically outline that bound the shape or form of an object. So we will be detecting multiple shapes and how many corners points each shape has along with its area .   </br> |
-|_____________________|__________________________|__________| ______________________________
+|___________________|______________________________|__________| ____________________________
 
 
 
