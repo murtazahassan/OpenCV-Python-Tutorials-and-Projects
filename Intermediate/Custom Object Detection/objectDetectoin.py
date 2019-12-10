@@ -1,7 +1,7 @@
 import cv2
 
 ################################################################
-path = 'haarcascades/haarcascade_arduino.xml'  # PATH OF THE CASCADE
+path = 'haarcascades/haarcascade_frontalface_default.xml'  # PATH OF THE CASCADE
 cameraNo = 1                       # CAMERA NUMBER
 objectName = 'Arduino'       # OBJECT NAME TO DISPLAY
 frameWidth= 640                     # DISPLAY WIDTH
