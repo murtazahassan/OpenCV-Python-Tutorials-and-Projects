@@ -40,7 +40,3 @@ https://youtu.be/gmz7eOB-tCg
 How to Build Tesla CyberTruck:
 
 https://youtu.be/TE2REg4NEHM
-
-
-[![Watch Video](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Advance/TrafficSignsCNN/Images/TrafficSignCNN.jpg)](https://youtu.be/SWaYRyi0TTs)
-
