@@ -10,13 +10,28 @@ Train and classify Traffic Signs using Convolutional neural networks This will b
 Downlaod Data Set : https://drive.google.com/open?id=1AZeKw90Cb6GgamTBO3mvDdz6PjBwqCCt
 ############################################################################################
 
-Affiliate Links: 
+Affiliate Links:
+Recommend Webcam for Computer Vision:
+https://amzn.to/2MNtVKZ
+Budget Webcam:
+https://amzn.to/2ZP47Ug
 
 
 For daily updates : 
 https://www.instagram.com/murtazaswor...
 
 Links:
+How To Install OPENCV in Python:
+
+https://youtu.be/CJXIjApHYVs
+
+5 Must Know OpencCV Functions:
+
+https://youtu.be/7kHhz7nkpBw
+
+Easy Object Following Robot using Arduino and PixyCam:
+
+https://youtu.be/w_krOCBk1DE
 
 Robot Arm Arduino Tutorial | Gesture Controlled:
 
@@ -26,13 +41,6 @@ How to Build Tesla CyberTruck:
 
 https://youtu.be/TE2REg4NEHM
 
-Computer Vision Course:
-
-https://www.youtube.com/watch?v=CJXIj...
-
-5 Must Know OpencCV Functions:
-
-https://youtu.be/7kHhz7nkpBw
 
 
 
