@@ -38,7 +38,7 @@
 |:----:|:----:|:----:|:----:|
 | [Traffic Signs Classification using CNN](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/tree/master/Advance/TrafficSignsCNN)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Advance/TrafficSignsCNN/Images/TrafficSignCNN.jpg" width="300" height="150" />  |[Watch Now](https://www.youtube.com/watch?v=SWaYRyi0TTs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF&index=12)     | Train and classify Traffic Signs using Convolutional neural networks This will be done using  OPENCV in real time using a simple webcam . </br> |
 
-|___________________|______________________________|__________| ____________________________
+
 
 
 # Notes
