@@ -39,6 +39,14 @@
 | [Traffic Signs Classification using CNN](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/tree/master/Advance/TrafficSignsCNN)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Advance/TrafficSignsCNN/Images/TrafficSignCNN.jpg" width="600" height="150" />  |[Watch Now](https://www.youtube.com/watch?v=SWaYRyi0TTs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF&index=12)     | Train and classify Traffic Signs using Convolutional neural networks This will be done using  OPENCV in real time using a simple webcam . </br> |
 
 
+# Projects
+</br>
+
+
+|Topic|Image|Video|Description|
+|:----:|:----:|:----:|:----:|
+| [Curved-Lane-Detection](https://github.com/murtazahassan/Curved-Lane-Detection/tree/master)| <img src="https://github.com/murtazahassan/Curved-Lane-Detection/blob/master/CurvedLaneDetection%20(1).jpg" width="600" height="150" />  |[Watch Now](https://youtu.be/-RuWTwDlot8)     | In this video we are going to learn how to detect curved lanes. We will detect not only the lanes but how much curvature is present in them so that we can use it in self driving applications. </br> |
+
 
 
 # Notes
