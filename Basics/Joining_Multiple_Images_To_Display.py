@@ -58,8 +58,8 @@ while True:
     imgEroded = cv2.erode(imgDilation,kernel,iterations=2)
 
     #imgBlank = np.zeros((200,200),np.uint8)
-    StackedImages = stackImages(0.6,([img,imgGray,imgBlur],
-                                   [imgCanny,imgDilation,imgEroded]))
+    StackedImages = stackImages(([img,imgGray,imgBlur],
+                                   [imgCanny,imgDilation,imgEroded]),0.6)
     cv2.imshow("Staked Images", StackedImages)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
