@@ -3,6 +3,15 @@
 # OPENCV PYTHON TUTORIALS FOR BEGINNERS
 </br>
 
+
+# Single Video Course
+
+|Topic|Image|Video|Description|
+|:----:|:----:|:----:|:----:|
+| [Learn OpenCV in 3 Hours](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Resources/Thumbnail.jpg" width="360" height="150" /> |[Watch Now](https://youtu.be/WQeoO7MI0Bs) |  Learn Opencv in 3 hours using Python. 3 Example Projects included.  </br> |
+
+
+
 # Basics 
 
 |Topic|Image|Video|Description|
