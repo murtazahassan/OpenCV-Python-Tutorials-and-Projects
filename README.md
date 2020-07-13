@@ -43,16 +43,6 @@
 |___________________|______________________________|__________| ____________________________
 
 
-
-# Advance
-</br>
-
-
-|Topic|Image|Video|Description|
-|:----:|:----:|:----:|:----:|
-| [Traffic Signs Classification using CNN](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/tree/master/Advance/TrafficSignsCNN)| <img src="https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Advance/TrafficSignsCNN/Images/TrafficSignCNN.jpg" width="600" height="100" />  |[Watch Now](https://www.youtube.com/watch?v=SWaYRyi0TTs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF&index=12)     | Train and classify Traffic Signs using Convolutional neural networks This will be done using  OPENCV in real time using a simple webcam . </br> |
-| [Digits Classification CNN ](https://github.com/murtazahassan/Digits-Classification)| <img src="https://github.com/murtazahassan/OCR_CNN/blob/master/OCR%20CNN.png" width="600" height="100" />  |[Watch Now](https://youtu.be/y1ZrOs9s2QA)     | In this video we are going to learn how to create a Convolution Neural Network to Classify digits from 0 to 9. We will write the Training code from scratch and go step by step to train about 10000 images of 10 different classes . Later we will create a testing script to use along with a webcam  </br> |
-
 # Projects
 </br>
 
